@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "d5zxo5+0/sHlMDJrbvPuIagIklEzU7iXeIJM1IT8Vk0LRA5l5e+ABLx85sO9BnKCFzHzpagkgc9ulqI6dhiNaA==",
+  "success": true,
+  "projectFilePath": "/home/julio/Desarrollo/CSharp/DotNetCore/MegaPrintProxy/MegaPrintProxy.csproj",
+  "expectedPackageFiles": [
+    "/home/julio/.nuget/packages/microsoft.netcore.app.host.linux-x64/3.1.16/microsoft.netcore.app.host.linux-x64.3.1.16.nupkg.sha512"
+  ],
+  "logs": []
+}
